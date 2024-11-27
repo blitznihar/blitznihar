@@ -1,24 +1,37 @@
 # 💫About Me :
-A results-driven Cloud Architect & Consultant with 20+ years of experience specializing in scalable microservices and data-powered solutions. 
-
-I have a proven track record in designing, deploying, and optimizing cloud-based architectures (Azure, AWS, GCP) for enhanced performance, security, and cost-efficiency. 
-
-**My Expertise:**
-
-* **Data & AI:** Building complex pipelines, ML models, analytics platforms, and GenAI Solutions.
-* **CCaaS, CRM/CX architecture:**  Salesforce, Five9, Genesys, Sitecore, Single Page Apps, Mobile Apps (Xamarin, MAUI), WordPress
-* **DevOps:** Establishing CI/CD pipelines and automating infrastructure.
-* **Enterprise Integration:** Designing SOA, ESB, and API gateway solutions.
-* **Microservices:** Leading implementations with Red Hat OpenShift & Azure Spring Apps.
-* **Security:** Implementing robust IAM frameworks and Platforms (e.g., Auth0).
-* **Hands-on Coding:** Python, Java, SpringBoot, C#, AngularJS, and web development.
-* **Governance:** Establishing Architecture Review Boards - Solution Architectures, Platform Architectures, PoCs, Application Onboarding, CICD Pipelines.
-
-**Additional Skills**
-
-* People Management 
-* CCaaS, CRM/CX architecture
-* Enterprise Architecture 
+Senior Solutions Architect | Director | Digital Transformation Leader | Senior Leadership at National Life Group | OCIO  
+TOGAF, PSM-1, PMP, ALMI, ASDA  
+<br/>​​​​​​​  
+With over 20 years of experience, I possess a unique blend of technical expertise, business acumen, and leadership skills. I empower organizations to harness the full potential of cloud computing, artificial intelligence, and data-driven innovation. As a seasoned Cloud Architect and Consultant, I specialize in crafting scalable, secure, and efficient solutions that drive business growth, enhance customer experience, and foster competitiveness.  
+**Technical Expertise**  
+My expertise spans multiple domains, including:  
+**\- Data Engineering and Architecture**: Designing and implementing complex data pipelines, analytics platforms, and machine learning models to uncover hidden insights and drive informed decision-making.  
+**\- Artificial Intelligence and Machine Learning**: Developing and deploying AI-powered solutions, including GenAI, to automate processes, predict outcomes, and optimize business performance.  
+**\- Microservices Architecture**: Leading implementations using Red Hat OpenShift and Azure Spring Apps to promote scalability, flexibility, and resilience.  
+**\- Cloud Computing**: Architecting and deploying cloud-based solutions on Azure, AWS, and GCP to ensure enhanced performance, security, and cost-efficiency.  
+**\- Enterprise Integration**: Designing service-oriented architecture (SOA), enterprise service bus (ESB), and API gateway solutions to facilitate seamless communication and data exchange.  
+**Digital Transformation Expertise**  
+In addition to technical expertise, I possess in-depth knowledge of:  
+**\- CCaaS and CRM/CX Architecture**: Designing and implementing customer contact center as a service (CCaaS) and customer relationship management (CRM) solutions using Salesforce, Five9, Genesys, and Sitecore.  
+**\- Single Page Apps and Mobile Apps**: Developing scalable and user-friendly applications using Xamarin, MAUI, and WordPress.  
+**\- DevOps**: Establish continuous integration and deployment (CI/CD) pipelines and automate infrastructure to streamline development and operations.  
+**Leadership and Management**  
+As a seasoned professional, I excel in:  
+**\- People Management**: Leading cross-functional teams to deliver high-quality solutions and mentoring junior professionals to foster growth and development.  
+**\- Governance Process**: Establish architecture review boards, solution architectures, platform architectures, proofs of concept (PoCs), Data Governance, AI Governance application onboarding, and CI/CD pipelines to ensure adherence to industry standards and best practices.
+**Hands-on Coding Experience**  
+I possess hands-on coding experience with various programming languages and technologies, including Python, Java / SpringBoot, Golang, C#, NodeJs, Rust, AngularJS, Web development  
+**Security and Compliance**  
+I implement robust security measures, including:  
+\- Identity and Access Management (IAM) frameworks  
+\- Auth0 platforms  
+\- Tokenization Platform  
+**Key Strengths**  
+\- Results-driven approach with a proven track record of success  
+\- Excellent communication and interpersonal skills  
+\- Strategic thinking with a focus on business outcomes  
+\- Strong technical expertise with the ability to dive deep  
+\- Leadership and mentoring capabilitiesTop of Form
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharmalali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@blitznihar) 
