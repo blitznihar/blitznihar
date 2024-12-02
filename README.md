@@ -45,7 +45,7 @@ I implement robust security measures, including:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blitznihar)](https://git.io/streak-stats)
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
