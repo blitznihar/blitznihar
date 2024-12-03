@@ -48,7 +48,7 @@ I implement robust security measures, including:
 
 
 [![Metrics](https://metrics.lecoq.io/blitznihar)](https://github.com/lowlighter/metrics)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blitznihar)](https://github.com/blitznihar/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@blitznihar)](https://github.com/blitznihar/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar)](https://github.com/blitznihar/github-profile-trophy)
 
