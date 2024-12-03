@@ -45,7 +45,11 @@ I implement robust security measures, including:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-[![Metrics](https://metrics.lecoq.io/yourusername)](https://github.com/lowlighter/metrics)
+
+
+[![Metrics](https://metrics.lecoq.io/blitznihar)](https://github.com/lowlighter/metrics)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blitznihar)](https://github.com/blitznihar/github-readme-stats)
+
 
 
 ---
