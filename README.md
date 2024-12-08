@@ -41,16 +41,13 @@ I implement robust security measures, including:
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitznihar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=contribs)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=blitznihar&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)
+[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar)](https://github.com/blitznihar/github-profile-trophy)
+
+---
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar)](https://github.com/blitznihar/github-profile-trophy)
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=blitznihar&icon=0&color=0)](https://visitcount.itsvg.in)
