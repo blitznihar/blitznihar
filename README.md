@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Nihar Malali :
 <br/>​​​​​​​  
 With over 20 years of experience, I possess a unique blend of technical expertise, business acumen, and leadership skills. I empower organizations to harness the full potential of cloud computing, artificial intelligence, and data-driven innovation. As a seasoned Cloud Architect and Consultant, I specialize in crafting scalable, secure, and efficient solutions that drive business growth, enhance customer experience, and foster competitiveness.  
 **Technical Expertise**  
