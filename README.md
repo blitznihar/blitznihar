@@ -12,6 +12,9 @@
 ![NextJs](https://img.shields.io/badge/Nextjs-3DD0031.svg?style=for-the-badge&logo=nextdotjs&logoColor=black) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-%23FF6F00.svg?style=for-the-badge&logo=sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=white)
+![cplusplus](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -34,9 +37,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![C#](https://img.shields.io/badge/C#-%23FF6F00.svg?style=for-the-badge&logo=sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=white)
-![cplusplus](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 
 
