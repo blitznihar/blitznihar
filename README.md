@@ -97,7 +97,8 @@ I implement robust security measures, including:
 \- Excellent communication and interpersonal skills  
 \- Strategic thinking with a focus on business outcomes  
 \- Strong technical expertise with the ability to dive deep  
-\- Leadership and mentoring capabilitiesTop of Form
+\- Leadership and mentoring capabilities
+<hr/>
 
 ### 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharmalali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@blitznihar) 
@@ -106,7 +107,7 @@ I implement robust security measures, including:
 
 ### 📊GitHub Stats :
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitznihar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=contribs)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar)](https://github.com/blitznihar/github-profile-trophy)
