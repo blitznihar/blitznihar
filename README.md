@@ -108,6 +108,7 @@ I implement robust security measures, including:
 ### 📊GitHub Stats :
 ![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitznihar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=contribs)<br/><hr/>
 [![GitHub Streak](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark)](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark&short_numbers=true)](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark&short_numbers=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=blitznihar&theme=dark&mode=weekly)](https://streak-stats.demolab.com?user=blitznihar&theme=dark&mode=weekly)<br/><hr/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)<br/>
