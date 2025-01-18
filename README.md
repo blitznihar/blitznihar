@@ -67,8 +67,10 @@
 
 
 # 💫Nihar Malali :
+<br/>
+Senior Solutions Architect | Director | Digital Transformation Leader | Senior Leadership at National Life Group | OCIO | Author
 <br/>​​​​​​​  
-With over 20 years of experience, I possess a unique blend of technical expertise, business acumen, and leadership skills. I empower organizations to harness the full potential of cloud computing, artificial intelligence, and data-driven innovation. As a seasoned Cloud Architect and Consultant, I specialize in crafting scalable, secure, and efficient solutions that drive business growth, enhance customer experience and foster competitiveness.  
+With over 21 years of experience, I possess a unique blend of technical expertise, business acumen, and leadership skills. I empower organizations to harness the full potential of cloud computing, artificial intelligence, and data-driven innovation. As a seasoned Cloud Architect and Consultant, I specialize in crafting scalable, secure, and efficient solutions that drive business growth, enhance customer experience and foster competitiveness.  
 **Technical Expertise**  
 My expertise spans multiple domains, including:  
 **\- Data Engineering and Architecture**: Designing and implementing complex data pipelines, analytics platforms, and machine learning models to uncover hidden insights and drive informed decision-making.  
