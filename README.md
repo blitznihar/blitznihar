@@ -78,14 +78,14 @@ My expertise spans multiple domains, including:
 **\- Microservices Architecture**: Leading implementations using Red Hat OpenShift and Azure Spring Apps to promote scalability, flexibility, and resilience.  
 **\- Cloud Computing**: Architecting and deploying cloud-based solutions on Azure, AWS, and GCP to ensure enhanced performance, security, and cost-efficiency.  
 **\- Enterprise Integration**: Designing service-oriented architecture (SOA), enterprise service bus (ESB), and API gateway solutions to facilitate seamless communication and data exchange.  
-**Digital Transformation Expertise**  
+**Digital Transformation Expertise**
 In addition to technical expertise, I possess in-depth knowledge of:  
 **\- CCaaS and CRM/CX Architecture**: Designing and implementing customer contact center as a service (CCaaS) and customer relationship management (CRM) solutions using Salesforce, Five9, Genesys, and Sitecore.  
 **\- Single Page Apps and Mobile Apps**: Developing scalable and user-friendly applications using Xamarin, MAUI, and WordPress.  
 **\- DevOps**: Establish continuous integration and deployment (CI/CD) pipelines and automate infrastructure to streamline development and operations.  
 ### **Leadership and Management**  
 As a seasoned professional, I excel in:  
-**\- People Management**: Leading cross-functional teams to deliver high-quality solutions and mentoring junior professionals to foster growth and development.  
+**\- People Management**: Leading cross-functional teams to deliver high-quality solutions and mentoring professionals to foster growth and development.  
 **\- Governance Process**: Establish architecture review boards, solution architectures, platform architectures, proofs of concept (PoCs), Data Governance, AI Governance application onboarding, and CI/CD pipelines to ensure adherence to industry standards and best practices.
 <hr/>
 ### **Hands-on Coding Experience**  
