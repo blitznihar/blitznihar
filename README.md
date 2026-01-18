@@ -79,8 +79,8 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures‚
 ## ‚≠ê Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/blitznihar/agentic-mcp-orchestrator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blitznihar&repo=agentic-mcp-orchestrator" />
+  <a href="https://github.com/blitznihar/agentic-mcpmesh-orchestrator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blitznihar&repo=agentic-mcpmesh-orchestrator" />
   </a>
   <a href="https://github.com/blitznihar/confluence-agentic-rag">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=blitznihar&repo=confluence-agentic-rag" />
