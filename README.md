@@ -1,3 +1,144 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nihar+Malali+%F0%9F%91%8B;Enterprise+AI+%26+Data+Platforms+%7C+Agentic+AI+%7C+RAG;Cloud+%7C+Databricks+%7C+Microservices+%7C+DevSecOps;AI+Governance+%7C+Digital+Transformation;Author+%7C+Inventor+%7C+Mentor" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niharmalali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/blitznihar?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://twitter.com/@blitznihar"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blitznihar&style=for-the-badge&color=brightgreen" />
+</p>
+
+---
+
+## 👋 About Me
+
+I build **enterprise-scale AI + data platforms** and modern cloud architectures—focused on **Agentic AI**, **RAG**, **Databricks**, and **AI Governance** in regulated environments.
+
+- 🧠 Agentic AI platform patterns (tools, orchestration, guardrails, governance)
+- 🔎 Retrieval-Augmented Generation (vector search, grounding, eval, monitoring)
+- 🧱 Modern architecture (microservices, APIs, cloud-native, DevSecOps)
+- 📊 Data/ML platforms (lakehouse, pipelines, MLOps, feature engineering)
+
+---
+
+## 🔭 Current Focus (2026)
+
+- MCP toolmesh + adapters (Email / Queue / Mongo / Postgres)
+- RAG systems grounded on private enterprise knowledge
+- Databricks/Mosaic AI architecture patterns
+- AI governance frameworks (security-by-design, compliance, onboarding)
+
+---
+
+---
+
+## 🧭 Past Focus & Enterprise Impact (Selected)
+
+<details>
+  <summary><b>Click to expand</b></summary>
+
+### Platforms & Modernization
+- **IAM Platform Enablement:** Auth0-based identity modernization (enterprise authentication + authorization patterns)
+- **Service Desk / Sales Desk Enablement:** Salesforce-driven service and sales enablement capabilities
+- **ERP Modernization:** Lawson → **Workday** transformation enablement (architecture, integration patterns, platform readiness)
+
+### Integration & Cloud-Native Platforms
+- **Enterprise Integration Modernization:** Migrated application integration patterns **away from BizTalk** toward modern APIs/event-driven approaches
+- **Cloud-Native Enablement:** Built and enabled integration/runtime platforms using:
+  - **Red Hat OpenShift**
+  - **Azure Spring Apps**
+  - **Azure Kubernetes Service (AKS)**
+
+### Data & Actuarial Platforms
+- **Actuarial Data Platform Enablement:** Databricks-based actuarial analytics platform foundations (lakehouse patterns, pipelines, governance alignment)
+- **DaaS Enablement:** Enabled Data-as-a-Service capabilities to standardize access and reuse across teams
+
+### Compliance & Security Foundations
+- **NACHA Compliance Enablement:** Tokenization + compliance platform enablement using **TokenEx**
+- **DevSecOps Practice Enablement:** Toolchain + operating model to support SDLC:
+  - **GitHub**, **SonarQube**, **JFrog** (and supporting CI/CD patterns)
+- **Security Standards for SDLC:** Established secure development/testing standards and guardrails (shift-left security)
+
+### Product & System Delivery (End-to-End)
+- **Loan Origination → Core Financial Engine:** Enabled and developed an end-to-end loan management capability using a **Coffee Shop design pattern** approach, including integrations with underwriting systems
+
+### Centers of Excellence (CoE) Enablement
+- Established CoEs for:
+  - **API Development**
+  - **UI Development**
+  - **CI/CD Practices**
+  - **Microservices Platform Enablement**
+
+</details>
+
+
+## ⭐ Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/blitznihar/agentic-mcp-orchestrator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blitznihar&repo=agentic-mcp-orchestrator" />
+  </a>
+  <a href="https://github.com/blitznihar/confluence-agentic-rag">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blitznihar&repo=confluence-agentic-rag" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/blitznihar?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-%E2%86%92-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🧾 Patents & Innovation
+
+<details>
+  <summary><b>📌 Patents Filed (Click to Expand)</b></summary>
+
+- Next-Generation Augmented Data Science Platform for Autonomous Model Generation, Continuous Testing, Adaptive Deployment, and Real-Time Performance Optimization Using AI-Driven Feedback Loops
+- AI-Powered Data Preprocessing and Transformation Platform for Autonomous Data Cleaning, Advanced Feature Engineering, Real-Time Data Augmentation, and Intelligent Quality Assurance
+- Intelligent Adaptive Data Sampling and Augmentation System for Enhancing Model Generalization, Bias Mitigation, and Robustness in Highly Imbalanced and Noisy Datasets Using Reinforcement Learning
+
+</details>
+
+---
+
+## 📚 Books & Publications
+
+<details>
+  <summary><b>📖 Published Books (Click to Expand)</b></summary>
+
+- Digital Transformation in the Age of AI: Contact Center and Back Office Transformation (2024)
+- Data Strategy in the Age of AI: Building a Foundation for Sustainable Success (2024)
+- Cloud Database Security: Integrating DL and ML for Threat Detection and Prevention (2025)
+- AI - Idea to Platform (2025)
+- AI Governance for Enterprise (2025)
+
+</details>
+
+---
+
+## 🏗️ Reference Architectures (Coming Soon)
+
+<details>
+  <summary><b>🧩 Architecture Gallery (Click to Expand)</b></summary>
+
+- Agentic AI Platform reference architecture
+- RAG blueprint (retrieval + grounding + eval + monitoring)
+- MCP toolmesh orchestration patterns
+- Databricks/Mosaic AI platform patterns
+
+</details>
+
+---
+
+## 💻 Tech Stack
+
 ### 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-12344545345345?style=for-the-badge&logo=python&labelColor=black&color=black)
 ![Spring](https://img.shields.io/badge/spring-12344545345345?style=for-the-badge&logo=spring&labelColor=black&color=black)
@@ -38,9 +179,6 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-
-
-
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
@@ -65,62 +203,36 @@
 ![macos](https://img.shields.io/badge/macos-12344545345345?style=for-the-badge&logo=macos&labelColor=black&color=white)
 ![linux](https://img.shields.io/badge/linux-12344545345345?style=for-the-badge&logo=linux&labelColor=black&color=yellow)
 
+---
 
-# 💫Nihar Malali :
-<br/>
-Senior Solutions Architect | Director | Digital Transformation Leader | Senior Leadership at National Life Group | OCIO | Author
-<br/>​​​​​​​  
-With over 21 years of experience, I possess a unique blend of technical expertise, business acumen, and leadership skills. I empower organizations to harness the full potential of cloud computing, artificial intelligence, and data-driven innovation. As a seasoned Cloud Architect and Consultant, I specialize in crafting scalable, secure, and efficient solutions that drive business growth, enhance customer experience and foster competitiveness.  
-**Technical Expertise**  
-My expertise spans multiple domains, including:  
-**\- Data Engineering and Architecture**: Designing and implementing complex data pipelines, analytics platforms, and machine learning models to uncover hidden insights and drive informed decision-making.  
-**\- Artificial Intelligence and Machine Learning**: Developing and deploying AI-powered solutions, including GenAI, to automate processes, predict outcomes, and optimize business performance.  
-**\- Microservices Architecture**: Leading implementations using Red Hat OpenShift and Azure Spring Apps to promote scalability, flexibility, and resilience.  
-**\- Cloud Computing**: Architecting and deploying cloud-based solutions on Azure, AWS, and GCP to ensure enhanced performance, security, and cost-efficiency.  
-**\- Enterprise Integration**: Designing service-oriented architecture (SOA), enterprise service bus (ESB), and API gateway solutions to facilitate seamless communication and data exchange.  
-**Digital Transformation Expertise**
-In addition to technical expertise, I possess in-depth knowledge of:  
-**\- CCaaS and CRM/CX Architecture**: Designing and implementing customer contact center as a service (CCaaS) and customer relationship management (CRM) solutions using Salesforce, Five9, Genesys, and Sitecore.  
-**\- Single Page Apps and Mobile Apps**: Developing scalable and user-friendly applications using Xamarin, MAUI, and WordPress.  
-**\- DevOps**: Establish continuous integration and deployment (CI/CD) pipelines and automate infrastructure to streamline development and operations.  
-### **Leadership and Management**  
-As a seasoned professional, I excel in:  
-**\- People Management**: Leading cross-functional teams to deliver high-quality solutions and mentoring professionals to foster growth and development.  
-**\- Governance Process**: Establish architecture review boards, solution architectures, platform architectures, proofs of concept (PoCs), Data Governance, AI Governance application onboarding, and CI/CD pipelines to ensure adherence to industry standards and best practices.
-<hr/>
-### **Hands-on Coding Experience**  
-I possess hands-on coding experience with various programming languages and technologies, including Python, Java / SpringBoot, Golang, C#, NodeJs, Rust, AngularJS, Web development  
-**Security and Compliance**  
-I implement robust security measures, including:  
-\- Identity and Access Management (IAM) frameworks  
-\- Auth0 platforms  
-\- Tokenization Platform  
-### **Key Strengths**  
-\- Results-driven approach with a proven track record of success  
-\- Excellent communication and interpersonal skills  
-\- Strategic thinking with a focus on business outcomes  
-\- Strong technical expertise with the ability to dive deep  
-\- Leadership and mentoring capabilities
-<hr/>
+## 📊 GitHub Stats
 
-### 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niharmalali/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@blitznihar) 
-
-
-
-### 📊GitHub Stats :
-![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitznihar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=contribs)<br/><hr/>
-[![GitHub Streak](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app?user=blitznihar&theme=dark)](https://github-readme-streak-stats-8zl5u92bu-blitznihars-projects.vercel.app/?user=blitznihar&theme=dark)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=blitznihar&theme=dark)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=blitznihar&theme=dark))
+![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=blitznihar&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&show=reviews,prs_merged_percentage&hide=contribs)
 <br/><hr/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=blitznihar&theme=dark)](https://streak-stats.demolab.com?user=blitznihar&theme=dark)
+<br/><hr/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar)](https://github.com/blitznihar/github-profile-trophy)
 
 ---
 
-### ✍️Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+## 🤝 Let’s Collaborate
+
+If you're building **Agentic AI**, **RAG**, **Databricks/Mosaic AI**, or **AI Governance** in enterprise environments, let’s connect.
+
+📩 LinkedIn: https://www.linkedin.com/in/niharmalali/
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=blitznihar&icon=0&color=0)](https://visitcount.itsvg.in)
