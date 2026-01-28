@@ -381,7 +381,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architecturesâ
 
 [![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b.svg)](https://wakatime.com/@fbb75a1c-1ac7-420c-8e72-b1969831877b)
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=blitznihar&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=blitznihar&theme=onedark)](https://github.com/blitznihar/github-profile-trophy)
 
 ---
 
