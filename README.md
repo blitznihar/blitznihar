@@ -379,7 +379,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architecturesâ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitznihar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071.svg)](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b/project/7e2667af-e6b1-41bc-8899-8c5f20c95071)
+[![wakatime](https://wakatime.com/badge/user/fbb75a1c-1ac7-420c-8e72-b1969831877b.svg)](https://wakatime.com/@fbb75a1c-1ac7-420c-8e72-b1969831877b)
 
 [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=blitznihar&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
