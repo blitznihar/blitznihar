@@ -229,6 +229,89 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ---
 
+### 🔗 A2A (Agent2Agent) — Development Tools & SDKs
+
+**🐍 Python**  
+![a2a-sdk](https://img.shields.io/badge/a2a--sdk-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🟨 JavaScript / TypeScript**  
+![@a2a-js/sdk](https://img.shields.io/badge/%40a2a--js%2Fsdk-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**🐹 Go**  
+![a2a-go](https://img.shields.io/badge/a2a--go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![trpc-a2a-go](https://img.shields.io/badge/trpc--a2a--go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**🟦 .NET**  
+![a2a-dotnet](https://img.shields.io/badge/a2a--dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**☕ Java**  
+![a2a-java](https://img.shields.io/badge/a2a--java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**🧰 Tooling**  
+![A2A Inspector](https://img.shields.io/badge/A2A%20Inspector-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ADK Integration](https://img.shields.io/badge/Agent%20Dev%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 🧩 MCP (Model Context Protocol) — Development Tools & SDKs
+
+**🐍 Python**  
+![mcp](https://img.shields.io/badge/mcp%20(python--sdk)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🟨 JavaScript / TypeScript**  
+![@modelcontextprotocol/sdk](https://img.shields.io/badge/%40modelcontextprotocol%2Fsdk-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**🐹 Go**  
+![go-sdk](https://img.shields.io/badge/mcp%20go--sdk-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![mcp-go](https://img.shields.io/badge/mark3labs%2Fmcp--go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**🟦 .NET**  
+![ModelContextProtocol C#](https://img.shields.io/badge/ModelContextProtocol%20(csharp--sdk)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**☕ Java**  
+![MCP Java SDK](https://img.shields.io/badge/MCP%20Java%20SDK-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring AI MCP](https://img.shields.io/badge/Spring%20AI%20MCP-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**🧰 Tooling**  
+![MCP Inspector](https://img.shields.io/badge/MCP%20Inspector-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+---
+
+### 🤖 Agentic AI — Development Tools & SDKs
+
+**🐍 Python**  
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=ai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**🟨 JavaScript / TypeScript**  
+![LangChain.js](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenAI Agents JS](https://img.shields.io/badge/OpenAI%20Agents%20JS-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+**🐹 Go**  
+![Eino](https://img.shields.io/badge/Eino%20(CloudWeGo)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![LangChainGo](https://img.shields.io/badge/LangChainGo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Genkit Go](https://img.shields.io/badge/Genkit%20Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**🟦 .NET**  
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Microsoft Agent Framework](https://img.shields.io/badge/MS%20Agent%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![AutoGen .NET](https://img.shields.io/badge/AutoGen%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**☕ Java**  
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Google ADK Java](https://img.shields.io/badge/Google%20ADK%20Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
 ### 🚀 Model Serving & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Ray](https://img.shields.io/badge/Ray-000000?style=for-the-badge&logo=ray&logoColor=white)
