@@ -34,8 +34,6 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ---
 
----
-
 ## 🧭 Past Focus & Enterprise Impact (Selected)
 
 <details>
@@ -213,8 +211,21 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ### 🧩 Agent Protocols & Tooling
 ![AgenticAI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=protocolsdotio&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A%20Protocol-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Tool%20Calling](https://img.shields.io/badge/Tool%20Calling-000000?style=for-the-badge&logo=probot&logoColor=white)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+---
+
+### 🧑‍💻 AI Coding Assistants & Agentic IDEs
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=for-the-badge&logo=codeium&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro%20(AWS)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Gemini Code Assist](https://img.shields.io/badge/Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -256,11 +267,11 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ---
 
 ### 🧑‍💻 Programming Languages
-![Python](https://img.shields.io/badge/python-12344545345345?style=for-the-badge&logo=python&labelColor=black&color=black)
-![Java](https://img.shields.io/badge/Java-12344545345345?style=for-the-badge&logo=spring_creators&labelColor=black&color=Red)
-![Golang](https://img.shields.io/badge/GOLANG-12344545345345?style=for-the-badge&logo=go&labelColor=black&color=00ADD8)
-![NodeJs](https://img.shields.io/badge/Node.js-12344545345345?style=for-the-badge&logo=nodedotjs&labelColor=black&color=5FA04E)
-![.NET](https://img.shields.io/badge/dotnet-12344545345345?style=for-the-badge&logo=dotnet&labelColor=black&color=512BD4)
+![Python](https://img.shields.io/badge/python-%20?style=for-the-badge&logo=python&labelColor=black&color=black)
+![Java](https://img.shields.io/badge/Java-%20?style=for-the-badge&logo=spring_creators&labelColor=black&color=Red)
+![Golang](https://img.shields.io/badge/GOLANG-%20?style=for-the-badge&logo=go&labelColor=black&color=00ADD8)
+![NodeJs](https://img.shields.io/badge/Node.js-%20?style=for-the-badge&logo=nodedotjs&labelColor=black&color=5FA04E)
+![.NET](https://img.shields.io/badge/dotnet-%20?style=for-the-badge&logo=dotnet&labelColor=black&color=512BD4)
 ![C#](https://img.shields.io/badge/CSharp-%23FF6F00.svg?style=for-the-badge&logo=sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23FF6F00.svg?style=for-the-badge&logo=C&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C++-%23FF6F00.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -268,8 +279,8 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ---
 
 ### 🧩 Backend Frameworks & Platforms
-![Spring](https://img.shields.io/badge/spring-12344545345345?style=for-the-badge&logo=spring&labelColor=black&color=black)
-![SpringBoot](https://img.shields.io/badge/Springboot-12344545345345?style=for-the-badge&logo=spring-boot&labelColor=black&color=black)
+![Spring](https://img.shields.io/badge/spring-%20?style=for-the-badge&logo=spring&labelColor=black&color=black)
+![SpringBoot](https://img.shields.io/badge/Springboot-%20?style=for-the-badge&logo=spring-boot&labelColor=black&color=black)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -278,8 +289,8 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ### 🎨 Frontend Frameworks & UI
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-![React](https://img.shields.io/badge/React-3DD0031.svg?style=for-the-badge&logo=react&logoColor=black)
-![NextJs](https://img.shields.io/badge/Nextjs-3DD0031.svg?style=for-the-badge&logo=nextdotjs&logoColor=black) 
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJs](https://img.shields.io/badge/Nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
@@ -288,7 +299,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ### 🗄️ Databases (SQL / NoSQL / Graph)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -304,6 +315,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ### 🏗️ Data Platforms & Warehouses
 ![databricks](https://img.shields.io/badge/databricks-%23150458.svg?style=for-the-badge&logo=databricks&logoColor=FF3621) 
+![Databricks Genie](https://img.shields.io/badge/Genie%20Workspace-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![snowflake](https://img.shields.io/badge/snowflake-%23150458.svg?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
 
 ---
@@ -313,14 +325,6 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-### 🧠 Deep Learning Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -351,18 +355,18 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ---
 
 ### 🔐 Identity & Enterprise Platforms
-![Auth0](https://img.shields.io/badge/auth0-12344545345345?style=for-the-badge&logo=auth0&labelColor=black&color=EB5424)
-![Salesforce](https://img.shields.io/badge/salesforce-12344545345345?style=for-the-badge&logo=salesforce&labelColor=black&color=00A1E0)
-![Sitecore](https://img.shields.io/badge/sitecore-12344545345345?style=for-the-badge&logo=sitecore&labelColor=black&color=EB1F1F)
+![Auth0](https://img.shields.io/badge/auth0-%20?style=for-the-badge&logo=auth0&labelColor=black&color=EB5424)
+![Salesforce](https://img.shields.io/badge/salesforce-%20?style=for-the-badge&logo=salesforce&labelColor=black&color=00A1E0)
+![Sitecore](https://img.shields.io/badge/sitecore-%20?style=for-the-badge&logo=sitecore&labelColor=black&color=EB1F1F)
 
 ---
 
 ### ☁️ Cloud & Operating Systems
-![amazonwebservices](https://img.shields.io/badge/AWS-12344545345345?style=for-the-badge&logo=amazonwebservices&labelColor=black&color=black)
-![googlecloud](https://img.shields.io/badge/googlecloud-12344545345345?style=for-the-badge&logo=googlecloud&labelColor=black&color=blue)
-![Azure](https://img.shields.io/badge/azure-12344545345345?style=for-the-badge&logo=gitforwindows&labelColor=black&color=blue)
-![macos](https://img.shields.io/badge/macos-12344545345345?style=for-the-badge&logo=macos&labelColor=black&color=white)
-![linux](https://img.shields.io/badge/linux-12344545345345?style=for-the-badge&logo=linux&labelColor=black&color=yellow)
+![amazonwebservices](https://img.shields.io/badge/AWS-%20?style=for-the-badge&logo=amazonwebservices&labelColor=black&color=black)
+![googlecloud](https://img.shields.io/badge/googlecloud-%20?style=for-the-badge&logo=googlecloud&labelColor=black&color=blue)
+![Azure](https://img.shields.io/badge/azure-%20?style=for-the-badge&logo=gitforwindows&labelColor=black&color=blue)
+![macos](https://img.shields.io/badge/macos-%20?style=for-the-badge&logo=macos&labelColor=black&color=white)
+![linux](https://img.shields.io/badge/linux-%20?style=for-the-badge&logo=linux&labelColor=black&color=yellow)
 
 ---
 
