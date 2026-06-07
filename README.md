@@ -374,6 +374,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architecturesâ
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJs](https://img.shields.io/badge/Nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![TanStack](https://img.shields.io/badge/TanStack-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
