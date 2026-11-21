@@ -154,6 +154,10 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white)
 
+**⚖️ Decision Models (Routing, Scoring & Guardrails)**  
+![Microsoft-Decision-1](https://img.shields.io/badge/Microsoft--Decision--1-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Jev](https://img.shields.io/badge/Jev%20(TypeSafe)-000000?style=for-the-badge&logo=typescript&logoColor=white)
+
 **🔌 Protocols, Skills & Gateways**  
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP Gateway](https://img.shields.io/badge/MCP%20Gateway-000000?style=for-the-badge&logo=anthropic&logoColor=white)
