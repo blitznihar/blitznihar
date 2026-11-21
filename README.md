@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nihar+Malali+%F0%9F%91%8B;Enterprise+AI+%26+Data+Platforms+%7C+Agentic+AI+%7C+RAG;Cloud+%7C+Databricks+%7C+Microservices+%7C+DevSecOps;AI+Governance+%7C+Digital+Transformation;Author+%7C+Inventor+%7C+Mentor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nihar+Malali+%F0%9F%91%8B;Leading+Agentic+AI+Adoption+%7C+Dewey+Platform;Enterprise+AI+%26+Data+Platforms+%7C+Agentic+AI+%7C+RAG;Cloud+%7C+Databricks+%7C+Microservices+%7C+DevSecOps;AI+Governance+%7C+Digital+Transformation;Author+%7C+Inventor+%7C+Mentor" />
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ## 🔭 Current Focus (2026)
 
+- **Agentic AI adoption leadership:** Leading Agentic AI adoption at NLG — establishing the team, enabling the platform, and defining standards and the intake process for **Dewey**, the NLG Agentic AI platform
 - MCP toolmesh + adapters (Email / Queue / Mongo / Postgres)
 - RAG systems grounded on private enterprise knowledge
 - Databricks/Mosaic AI architecture patterns
@@ -136,6 +137,45 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 ---
 
 ## 💻 Tech Stack
+
+### 🏢 Enterprise Agentic AI Platform (Dewey @ NLG)
+
+**☁️ Microsoft AI Platform**  
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**🤖 Models & Frameworks**  
+![GPT Models](https://img.shields.io/badge/LLMs-GPT%20Family-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Open Source LLMs](https://img.shields.io/badge/LLMs-Open%20Source-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=ai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI%20SDK-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+**🔌 Protocols, Skills & Gateways**  
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Gateway](https://img.shields.io/badge/MCP%20Gateway-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![A2UI](https://img.shields.io/badge/A2UI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Agent Gateway](https://img.shields.io/badge/Agent%20Gateway-6A1B9A?style=for-the-badge&logo=robotframework&logoColor=white)
+![AI Gateway](https://img.shields.io/badge/AI%20Gateway-6A1B9A?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**🧠 Context, Knowledge & Data Products**  
+![Data Products](https://img.shields.io/badge/Data%20Products-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-000000?style=for-the-badge&logo=readthedocs&logoColor=white)
+![CAG](https://img.shields.io/badge/CAG-Cache%20Augmented-000000?style=for-the-badge&logo=redis&logoColor=white)
+![KAG](https://img.shields.io/badge/KAG-Knowledge%20Augmented-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+**🛡️ AI Red Teaming & Security Testing**  
+![garak](https://img.shields.io/badge/garak-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![PyRIT](https://img.shields.io/badge/PyRIT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![promptfoo](https://img.shields.io/badge/promptfoo-E5484D?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+---
+
 ### 🧠 LLM + Agent Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
