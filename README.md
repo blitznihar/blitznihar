@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I build **enterprise-scale AI + data platforms** and modern cloud architectures—focused on **Agentic AI**, **RAG**, **Databricks**, and **AI Governance** in regulated environments.
+I build **enterprise-scale AI + data platforms** and modern cloud architectures-focused on **Agentic AI**, **RAG**, **Databricks**, and **AI Governance** in regulated environments.
 
 - 🧠 Agentic AI platform patterns (tools, orchestration, guardrails, governance)
 - 🔎 Retrieval-Augmented Generation (vector search, grounding, eval, monitoring)
@@ -27,7 +27,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ## 🔭 Current Focus (2026)
 
-- **Agentic AI adoption leadership:** Leading Agentic AI adoption at NLG — establishing the team, enabling the platform, and defining standards and the intake process for **Dewey**, the NLG Agentic AI platform
+- **Agentic AI adoption leadership:** Leading Agentic AI adoption at NLG - establishing the team, enabling the platform, and defining standards and the intake process for **Dewey**, the NLG Agentic AI platform
 - MCP toolmesh + adapters (Email / Queue / Mongo / Postgres)
 - RAG systems grounded on private enterprise knowledge
 - Databricks/Mosaic AI architecture patterns
@@ -273,7 +273,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ---
 
-### 🔗 A2A (Agent2Agent) — Development Tools & SDKs
+### 🔗 A2A (Agent2Agent) - Development Tools & SDKs
 
 **🐍 Python**  
 ![a2a-sdk](https://img.shields.io/badge/a2a--sdk-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -297,7 +297,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ---
 
-### 🧩 MCP (Model Context Protocol) — Development Tools & SDKs
+### 🧩 MCP (Model Context Protocol) - Development Tools & SDKs
 
 **🐍 Python**  
 ![mcp](https://img.shields.io/badge/mcp%20(python--sdk)-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -322,7 +322,7 @@ I build **enterprise-scale AI + data platforms** and modern cloud architectures�
 
 ---
 
-### 🤖 Agentic AI — Development Tools & SDKs
+### 🤖 Agentic AI - Development Tools & SDKs
 
 **🐍 Python**  
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
